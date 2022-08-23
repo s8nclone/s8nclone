@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and software programming
 - 🌱 I’m currently learning javascript/react
 - 💞️ I’m looking to collaborate on web development and software programming projects
-- 📫 How to reach me; email @dayojnr.3@gmail.com twitter: @middles8n
+- 📫 How to reach me; [email] (@dayojnr.3@gmail.com) and twitter: [@middles8n](https://twitter.com/middles8n)
 
 <!---
 s8nclone/s8nclone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
