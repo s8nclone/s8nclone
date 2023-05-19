@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dayo Farayola</h1>
-<h3 align="center">I am a passionate and enthusiastic Frontend Developer interested in creating responsive frontend web apps and enthusiastic about continuous development in the tech space.</h3>
+<h3 align="center">I am a passionate Frontend Developer interested in creating responsive frontend web apps that follows the mobile first approach and enthusiastic about continuous development in the tech space.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s8nclone" alt="s8nclone" /></a> </p>
 
@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **frontend projects**
 
-- ⚡ Fun fact **I am a hugr Manchester United fan**
+- ⚡ Fun fact **I am a huge Manchester United fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
