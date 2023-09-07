@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/middles8n" target="blank"><img src="https://img.shields.io/twitter/follow/middles8n?logo=twitter&style=for-the-badge" alt="middles8n" /></a> </p>
 
-- 🌱 I’m currently learning **Firebase and WordPress**
+- 🌱 I’m currently learning **NextJs and ReactNative**
 
 - 👯 I’m looking to collaborate on **frontend projects**
 
